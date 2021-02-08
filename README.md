@@ -1,6 +1,6 @@
 # Raspberry-Pi-Pico-Sensor-Kit(EN)
 ## Instructions
-This examples can be used for [Raspberry-Pi-Pico-Sensor-Kit](https://www.waveshare.net/shop/Raspberry-Pi-Pico-Sensor-Kit.htm)
+This examples can be used for WaveShaer [Raspberry-Pi-Pico-Sensor-Kit](https://www.waveshare.net/shop/Raspberry-Pi-Pico-Sensor-Kit.htm)
 ## PACKAGE CONTENT
 1. MQ-5 Gas Sensor × 1
 2. Color Sensor × 1
@@ -22,9 +22,17 @@ This examples can be used for [Raspberry-Pi-Pico-Sensor-Kit](https://www.wavesha
 ## How to use
 See the individual project folders README.md for details
 
+==Now there are only C examples==
+### Environment
+- Development Kit ：Raspberry Pi Pico
+- SDK version :  1.0.1
+- Build System:  CMake
+- Compiler version：GCC for arm-none-eabi 9.3.1
+- Operating System:Windows10
+- IDE：Visual Studio Code
 # Raspberry-Pi-Pico-Sensor-Kit(CN)
 ## 介绍
-本例程用[Raspberry-Pi-Pico-Sensor-Kit](https://www.waveshare.net/shop/Raspberry-Pi-Pico-Sensor-Kit.htm)
+本例程用微雪[Raspberry-Pi-Pico-Sensor-Kit](https://www.waveshare.net/shop/Raspberry-Pi-Pico-Sensor-Kit.htm)
 ## 配置清单
 1. MQ-5 Gas Sensor × 1
 2. Color Sensor × 1
@@ -45,3 +53,11 @@ See the individual project folders README.md for details
 
 ## 使用方法
 细节请查看各个工程文件夹README.md
+==现只提供C例程==
+### 环境
+- 开发板 ：Raspberry Pi Pico
+- SDK版本 :  1.0.1
+- 构建系统:  CMake
+- 编译器版本：GCC for arm-none-eabi 9.3.1
+- 操作系统:Windows10
+- 集成开发环境：Visual Studio Code
