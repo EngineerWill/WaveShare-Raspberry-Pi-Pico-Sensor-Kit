@@ -21,14 +21,14 @@ This examples can be used for WaveShaer [Raspberry-Pi-Pico-Sensor-Kit](https://w
 
 ## How to use
 See the individual project folders README.md for details
-### Now there are only C examples
+#### Now there are only C examples
 ### Environment
-- Development Kit ：Raspberry Pi Pico
-- SDK version :  1.0.1
-- Build System:  CMake
-- Compiler version：GCC for arm-none-eabi 9.3.1
 - Operating System:Windows10
-- IDE：Visual Studio Code
+- Development Kit ：[Raspberry Pi Pico](https://www.waveshare.net/shop/Raspberry-Pi-Pico.htm)
+- SDK version :  [Raspberry Pi Pico SDK 1.0.1](https://github.com/raspberrypi/pico-sdk/tree/1.0.1)
+- Build System:  [Cmake](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads)
+- Compiler version：[GCC for arm-none-eabi 9.3.1](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads)
+- IDE：[Visual Studio Code](https://code.visualstudio.com/)
 # Raspberry-Pi-Pico-Sensor-Kit(CN)
 ## 介绍
 本例程用微雪[Raspberry-Pi-Pico-Sensor-Kit](https://www.waveshare.net/shop/Raspberry-Pi-Pico-Sensor-Kit.htm)
@@ -53,12 +53,12 @@ See the individual project folders README.md for details
 ## 使用方法
 细节请查看各个工程文件夹README.md
 
-### 现只提供C例程
+#### 现只提供C例程
 
 ### 环境
-- 开发板 ：Raspberry Pi Pico
-- SDK版本 :  1.0.1
-- 构建系统:  CMake
-- 编译器版本：GCC for arm-none-eabi 9.3.1
 - 操作系统:Windows10
-- 集成开发环境：Visual Studio Code
+- 开发板 ：[Raspberry Pi Pico](https://www.waveshare.net/shop/Raspberry-Pi-Pico.htm)
+- SDK版本 : [Raspberry Pi Pico SDK 1.0.1](https://github.com/raspberrypi/pico-sdk/tree/1.0.1)
+- 构建系统:  [Cmake](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads)
+- 编译器版本：[GCC for arm-none-eabi 9.3.1](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads)
+- 集成开发环境：[Visual Studio Code](https://code.visualstudio.com/)
