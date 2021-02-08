@@ -21,8 +21,7 @@ This examples can be used for WaveShaer [Raspberry-Pi-Pico-Sensor-Kit](https://w
 
 ## How to use
 See the individual project folders README.md for details
-
-==Now there are only C examples==
+### Now there are only C examples
 ### Environment
 - Development Kit ：Raspberry Pi Pico
 - SDK version :  1.0.1
@@ -53,7 +52,9 @@ See the individual project folders README.md for details
 
 ## 使用方法
 细节请查看各个工程文件夹README.md
-==现只提供C例程==
+
+### 现只提供C例程
+
 ### 环境
 - 开发板 ：Raspberry Pi Pico
 - SDK版本 :  1.0.1
