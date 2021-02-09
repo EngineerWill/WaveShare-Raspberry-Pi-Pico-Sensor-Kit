@@ -1,6 +1,6 @@
 # Raspberry-Pi-Pico-Sensor-Kit(EN)
 ## Instructions
-This examples can be used for WaveShaer [Raspberry-Pi-Pico-Sensor-Kit](https://www.waveshare.net/shop/Raspberry-Pi-Pico-Sensor-Kit.htm)
+This examples can be used for WaveShare [Raspberry-Pi-Pico-Sensor-Kit](https://www.waveshare.net/shop/Raspberry-Pi-Pico-Sensor-Kit.htm)
 ## PACKAGE CONTENT
 1. MQ-5 Gas Sensor × 1
 2. Color Sensor × 1
