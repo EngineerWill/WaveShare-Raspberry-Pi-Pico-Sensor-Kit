@@ -10,6 +10,7 @@ S1 | GPIO19
 S2 | GPIO20
 S3 | GPIO21
 OUT | GPIO17
+LED | 3.3V
 ## How to use
 1. Download the relative codes to the development board.
 2. Place a white paper at the top of the sensor in a distance of 1cm.
@@ -43,6 +44,7 @@ S1 | GPIO19
 S2 | GPIO20
 S3 | GPIO21
 OUT | GPIO17
+LED | 3.3V
 ## 使用方法
 1. 将配套程序下载到开发板中。
 2. 将白纸放置在传感器四个高亮白色 LED 一面（下称正面）的上方 1CM 处。
